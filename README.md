@@ -45,12 +45,8 @@ Now type in ```/Users/[username]/Downloads/sratoolkit.2.9.6-mac64/bin/vdb-decryp
 **Note**: Replace [filename] with the actual file name
 
 ## Step 11
-The decrypted compressed file will be stored in the same directory
-
-## Step 12
-Uncompress the decrypted file to see the actual file
+The decrypted compressed file will be replaced with encrypted file in the same directory. To see the actual file uncompress the compressed one
 
 # More info
 Check the following reference for further information
  - [Decrypting and Extracting Data](https://www.ncbi.nlm.nih.gov/books/NBK63512/#Download.i_used_the_vdb_tools_to_work_on)
- - [Installing OpenJDK on Debian-based systems]
